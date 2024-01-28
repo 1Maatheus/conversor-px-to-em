@@ -10,7 +10,3 @@
 <p>
 Completely open source project, feel free if you want to improve the application!
 </p>
-
-<div align="right">
-Long live to open sourcery project! 
-</div>
