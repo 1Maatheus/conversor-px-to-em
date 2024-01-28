@@ -1,5 +1,9 @@
 # Pixel to Em Converter 🛠
 
+## Project preview:
+
+<img src="./assets/preview.png"/>
+<hr/>
 <h3>
  Using this web application, you can easily converter a <em>PX</em> unit to an <em>Em</em> unit. 
  <br>
